@@ -1,0 +1,122 @@
+body {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  margin: 20px;
+  background-color: #bababa;
+}
+
+
+#title {
+  font-size: 20px;
+  text-align: center;
+  color: yellow: 
+}
+
+#title h1 {
+  margin-bottom: 0px;
+  
+}
+#title h2 {
+  margin-top: 0px;
+  text-align: center;
+}
+#body {
+  font-weight: bold;
+  text-align: center;
+}
+
+body img {
+  width: 500px;
+  height: 300px;
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+}
+#body h2{
+  text-align:center;
+}
+
+#nav {
+  text-align: center;
+  background-color: #000144;
+  
+}
+#nav li{
+  list-style-type:none;
+  display: inline;
+  margin: 5px;
+  font-size: 30px;
+  color: white;
+}
+
+#nav a{
+  color: white; 
+  text-decoration: none;
+}
+
+#buttons {
+  text-align: center;
+  position: relative;
+    left: -px;
+    top: -200px;
+  
+}
+
+#next{
+  font-size: 50px;
+  margin-left: 200px;
+  width: 50px;
+  height: 100px;
+  opacity: .70;
+  border: 3px solid black;
+}
+
+#last{
+  font-size: 50px;
+  margin-right: 200px;
+  width: 50px;
+  height: 100px;
+  opacity: .70;
+  border: 3px solid black;
+}
+
+#foot {
+    text-align: center;
+  background-color: #000144;
+}
+
+#foot a{
+  color: white; 
+  text-decoration: none;
+}
+#foot li {
+  list-style-type:none;
+  margin: 5px;
+  font-size: 30px;
+  display: inline;
+  color: white;
+}
+
+#homething h1{
+  margin-top: 50px;
+  text-align: center; 
+}
+
+#homething h2{
+  text-align: center; 
+}
+
+#excerpt {
+  padding: 10px; 
+  border:5px dashed black;
+  background-color: white;
+  margin: 5px;
+}
+#SUBSCRIBES {
+ text-align: center;
+ font-size: 100px;
+ padding: 20px;
+ border: 15px solid black; 
+ margin: auto;
+}
