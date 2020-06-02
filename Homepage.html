@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div id="homething">
+<h1>MY NAME IS RICARDO JOHNSON AND WELCOME TO MY BLOG</h1>
+<h2>Want to read some of my blogs scroll down</h2>
+<div id="preview">  
+	{% for post in site.posts limit:3 %}
+	<div id="excerpt">	
+		<h2>{{post.title}}</h2>
+		<h2>{{post.date}}</h2>
+		<h2>{{post.excerpt}}</h2>
+		<h2>Wanna read more? Click <a href="{{post.url}}">Here</a></h2>
+		</div>
+	{%endfor%}
+	
+	<div id="spot"> 
+		<h1>Check out Kevin's Lit distrack</h1>
+		<iframe src="https://open.spotify.com/embed/user/rlperez1207/playlist/3EfSe6iFJY5qVPOprh9kzQ" 
+			width="300" height="380" frameborder="0" align ="middle" allowtransparency="true"></iframe>
+	
+	</div>
+	</div>	
+</div>
