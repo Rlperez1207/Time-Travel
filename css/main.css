@@ -121,14 +121,12 @@ body img {
  margin: auto;
 }
 #Track1 {
- text-align: left;
- font-size: 100px;
  padding: 20px;
  margin: auto;
+ position: relative;
 }
 #Track2 {
- text-align: right;
- font-size: 100px;
  padding: 20px;
  margin: auto;
+ position: relative;
 }
