@@ -38,10 +38,11 @@ body img {
 }
 
 #nav {
-  text-align: center;
-  background-color: #000144;
   position: sticky;
   top: 0;
+  text-align: center;
+  background-color: #e8a11c;
+  
   
 }
 #nav li{
