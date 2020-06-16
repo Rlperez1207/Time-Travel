@@ -41,6 +41,7 @@ body img {
   text-align: center;
   background-color: #000144;
   position: sticky;
+  top: 0;
   
 }
 #nav li{
