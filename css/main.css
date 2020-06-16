@@ -46,6 +46,8 @@ body img {
   
 }
 #nav li{
+  position: sticky;
+  top: 0;
   list-style-type:none;
   display: inline;
   margin: 5px;
