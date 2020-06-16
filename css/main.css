@@ -55,8 +55,8 @@ body img {
   color: white;
 }
 
-#nav a{
-  color: black; 
+#nav a:hover{
+  color: #db6b6b; 
   text-decoration: none;
 }
 
