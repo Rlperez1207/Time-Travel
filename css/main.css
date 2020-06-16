@@ -118,11 +118,11 @@ body img {
   background-color: white;
   margin: 5px;
 }
-#SUBSCRIBES {
+#log {
  text-align: center;
  font-size: 100px;
  padding: 20px;
- border: 15px solid black; 
+ border: 5px solid black; 
  margin: auto;
 }
 #Track1 {
